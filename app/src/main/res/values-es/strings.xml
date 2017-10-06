@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">Pregunta</string>
+    <string name="check">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="finish">Finalizar</string>
+
+
+    <array name="questions">
+        <item>Cual es la capital de Bhutan?</item>
+        <item>Cual es la capital de Spain?</item>
+        <item>Cual es la capital de Italia?</item>
+        <item>What is the capital of Afganistán?</item>
+        <item>What is the capital of Australia?</item>
+    </array>
+    <array name="answers">
+        <item>Ougadougou;Pnohm Penh;Thimphu;Ghiruter;Thimphu</item>
+        <item>Paris;Madrid;Rome;Lisboa;Madrid</item>
+        <item>Madrid;London;Helsinki;Rome;Rome</item>
+        <item>Kabul;Tirana;Berlin;Bakú;Kabul</item>
+        <item>Manama;Canberra;Bruselas;Paris;Canberra</item>
+    </array>
+
+</resources>
